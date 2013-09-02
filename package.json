@@ -1,0 +1,20 @@
+{
+  "name": "htmlid",
+  "version": "0.0.0",
+  "description": "create html friendly ids",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": "",
+  "keywords": [
+    "id",
+    "html",
+    "safe"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT"
+}
