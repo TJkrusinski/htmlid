@@ -9,7 +9,10 @@
   "scripts": {
     "test": "mocha tests"
   },
-  "repository": "",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/tjkrusinski/htmlid"
+  },
   "keywords": [
     "id",
     "html",
