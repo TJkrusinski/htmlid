@@ -2,6 +2,8 @@
 
 Create html safe ids
 
+[![Build Status](https://travis-ci.org/TJkrusinski/htmlid.png?branch=master)](https://travis-ci.org/TJkrusinski/htmlid)
+
 ## Example
 
 ```
